@@ -1,4 +1,4 @@
-jahangeercs123/screenshots/116267800_2646446292297842_816304043627286481_o.jpg
+116267800_2646446292297842_816304043627286481_o.jpg
 ### Hi there 👋
 I am kaggle Notebooks GrandMaster looking for opportunities and collabaration in projects related to data science and deep learning.
 I’m practicing Deep Learning techniques for computer vision and Natural Language Processing in kaggle
