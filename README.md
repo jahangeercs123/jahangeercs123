@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I am kaggle Notebooks GrandMaster looking for opportunities and collabaration in projects related to data science and deep learning.
+
+🔭 I’m practicing Deep Learning techniques for computer vision and Natural Language Processing in kaggle
+🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
+🤝 I’m looking to collaborate on data science and deep learning projects.
+
 -->
