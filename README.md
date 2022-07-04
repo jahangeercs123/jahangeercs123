@@ -3,6 +3,7 @@ I am kaggle Notebooks GrandMaster looking for opportunities and collabaration in
 I’m practicing Deep Learning techniques for computer vision and Natural Language Processing in kaggle
 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 I’m looking to collaborate on data science and deep learning projects.
-<h2> jahangeer cv/<h2>
-<hr>
+<h2> jahangeer cv<h2>
 live: https://mobassir94.github.io/mobassircv.github.io/
+<h2>https://github.com/Lexie88rus/Lexie88rus.github.io<h2>
+https://github.com/Lexie88rus/Lexie88rus.github.io
