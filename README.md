@@ -1,5 +1,5 @@
 116267800_2646446292297842_816304043627286481_o.jpg
-![alt text](http://url/to/116267800_2646446292297842_816304043627286481_o.jpg)
+![alt text](https://github.com/jahangeercs123/jahangeercs123/blob/main/screenshots/116267800_2646446292297842_816304043627286481_o.jpg)
 ### Hi there 👋
 I am kaggle Notebooks GrandMaster looking for opportunities and collabaration in projects related to data science and deep learning.
 I’m practicing Deep Learning techniques for computer vision and Natural Language Processing in kaggle
