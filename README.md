@@ -1,4 +1,6 @@
+
 <div id="header" align="center">
+<img width=300 src="" />
   <h2> Hi 👋 I'm Jahangeer Ahmad.</h2>
   <div id="badges">
     <a href="https://www.linkedin.com/in/jahangeer-ahmad-9892b7243/">
