@@ -1,16 +1,34 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h2> Hi 👋 I'm Jahangeer Ahmad.</h2>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/jahangeer-ahmad-9892b7243/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/jahange08734512">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://join.skype.com/invite/vic8Se9Nf0Lz">
+      <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white%22%20alt=%22Skype%20Badge"/>
+    </a>
+  </div>
+</div>
 
-<!--
-**jahangeercs123/jahangeercs123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💻 &nbsp; About Me :
+I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan Islamabad.
+- I’m working as a Senior IT consultant and building large scale web applications.
+- Authoring and blogging about emerging technologies.
+- Share knowledge through meetups and twitter.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### :hammer_and_wrench: Languages and Tools :
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="=VueJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+
