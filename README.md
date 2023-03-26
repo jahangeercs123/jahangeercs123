@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<img width=300 src="" />
+<img width=300 src="https://github.com/jahangeercs123/taskRabbhit/blob/main/images/my-avatar-modified-circle.png" />
   <h2> Hi 👋 I'm Jahangeer Ahmad.</h2>
   <div id="badges">
     <a href="https://www.linkedin.com/in/jahangeer-ahmad-9892b7243/">
