@@ -16,7 +16,7 @@
 </div>
 
 #### 💻 &nbsp; About Me :
-I am a Tech lead, Full Stack IT consultant, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Islamabad Pakistan.
+I am a Tech lead, IT Consultant & Software Developer, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Islamabad Pakistan.
 - I’m working as a Senior IT consultant and building large scale web applications.
 - Authoring and blogging about emerging technologies.
 - Share knowledge through meetups and twitter.
