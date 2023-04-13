@@ -9,10 +9,10 @@
     <a href="https://twitter.com/jahange08734512">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="(https://api.whatsapp.com/send?phone=923449289262&text=Hi%2C%20Thank%20you%20for%20reaching%20out%20to%20our%20customer%20support%20team.%20We%27ve%20received%20your%20query%20and%20will%20get%20back%20to%20you%20within%202%20hours.%20)">
+    <a href="https://join.skype.com/invite/vic8Se9Nf0Lz">
       <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white%22%20alt=%22Skype%20Badge"/>
     </a>
-    <a href="https://join.skype.com/invite/vic8Se9Nf0Lz">
+    <a href="https://wa.link/09z2fm](https://wa.link/09z2fm">
       <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white%22%20alt=%22Whatsapp%20Badge"/>
     </a>
   </div>
