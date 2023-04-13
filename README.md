@@ -12,7 +12,7 @@
     <a href="https://join.skype.com/invite/vic8Se9Nf0Lz">
       <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white%22%20alt=%22Skype%20Badge"/>
     </a>
-    <a href="https://wa.link/09z2fm](https://wa.link/09z2fm">
+    <a href="https://wa.link/09z2fm">
       <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white%22%20alt=%22Whatsapp%20Badge"/>
     </a>
   </div>
