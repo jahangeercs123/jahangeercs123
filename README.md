@@ -35,6 +35,7 @@ I am a Tech lead, IT Consultant & Software Developer, Author, Speaker & open sou
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://www.google.com/search?q=bootstrap+5+image&rlz=1C1CHBD_enPK1024PK1024&sxsrf=APwXEddGKWB8wAZfUPGizOeBaY1y5xs-jw:1681702784576&source=lnms&tbm=isch&sa=X&ved=2ahUKEwibqt6I_6_-AhWkQuUKHSj3CVoQ_AUoAXoECAEQAw&biw=1280&bih=609&dpr=1.5#imgrc=pzY-EnrTEd_zKM"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
