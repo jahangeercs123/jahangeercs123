@@ -25,7 +25,7 @@
 I am a Tech lead, IT Consultant & Software Developer, Author, Speaker & open source tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Islamabad Pakistan.
 - I’m working as a Software Engineer and building large scale web applications.
 - Write Blog on <a href="https://medium.com/@jahangeerahmad26">Medium</a> about emerging technologies.
-- Share knowledge through Medium Linkedin&twitter.
+- Share knowledge through <a href="https://medium.com/@jahangeerahmad26">Medium</a> <a href="https://www.linkedin.com/in/jahangeer-ahmad-9892b7243/">Linkedin</a><a href="https://medium.com/@jahangeerahmad26">&twitter</a>.
 
 
 
